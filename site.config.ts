@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
-  domain: 'eunheekim.vercel.app',
+  domain: 'blog-eunheekim.vercel.app',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
